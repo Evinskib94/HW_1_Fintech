@@ -75,7 +75,7 @@ Throughout this whole research of the Shield FC I  noticed the startup still in 
 
 
 
-Work Cited page 
+## Work Cited Page 
 - “Shield.” Shield Financial Compliance, 15 Sept. 2019, https://www.shieldfc.com/.
 - 100, T. (2019). The RegTech Top 100 - Planet Compliance. [online] Planet Compliance. Available at: https://www.planetcompliance.com/2019/01/08/regtech-top-100-power-list-influential-regtech-firms/ [Accessed 21 Dec. 2019].
 - Eu-startups.com. (2019). Shield FC | EU-Startups. [online] Available at: https://www.eu-startups.com/directory/shield-fc/ [Accessed 21 Dec. 2019].
