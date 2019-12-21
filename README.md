@@ -6,7 +6,7 @@
 
 
 
-Creating an innovation to the world only begins with the mindset of an entrepreneur, from Steve Jobs to Jeff benzos we see such impacts. These individuals open the door to a whole new world. The world at first is  maintained to a similar psychological response to  individuals whom have suffered a loss. The world first went through disbelief disregarding what both these pioneers have created, specifically criticizing the state of their mind. Next the world transition into a disorganization and dependence. As the theses systems were being used  around the world they transitioned there following group to gain the upper hand in the market. This caused the disorganization of firms that were not following  transitions triggering them to see a decrease in revenue and to become heavily dependent on their old ways. This leads to intellectualization, initiating  any outstanding firms to begin the process of accepting the change and following in the innovation of such systems. The concept of this can be correlated in all aspects of innovation especially the new and upcoming growth of fintech. Before moving forward you may ask “what is fintech?”. Fintech is the integration of the technological interface and the financial services of the world. There are many subdivisions of fintech such as: 
+Creating an innovation to the world only begins with the mindset of an entrepreneur, from Steve Jobs to Jeff Bezos we see such impacts. These individuals open the door to a whole new world. The world at first is  maintained to a similar psychological response to  individuals whom have suffered a loss. The world first went through disbelief disregarding what both these pioneers have created, specifically criticizing the state of their mind. Next the world transition into a disorganization and dependence. As the theses systems were being used  around the world they transitioned there following group to gain the upper hand in the market. This caused the disorganization of firms that were not following  transitions triggering them to see a decrease in revenue and to become heavily dependent on their old ways. This leads to intellectualization, initiating  any outstanding firms to begin the process of accepting the change and following in the innovation of such systems. The concept of this can be correlated in all aspects of innovation especially the new and upcoming growth of fintech. Before moving forward you may ask “what is fintech?”. Fintech is the integration of the technological interface and the financial services of the world. There are many subdivisions of fintech such as: 
 - Payments/Billing
 - Capital Investment
 - Investment Management
@@ -82,6 +82,10 @@ Throughout this whole research of the Shield FC I  noticed the startup still in 
 - “Shield.” Crunchbase, www.crunchbase.com/organization/shield-fc#section-current-team.
 - “Best Compliance Management Software.” SoftwareSuggest.com, www.softwaresuggest.com/shield-fc/alternatives.
 - Culp, Steve. “Four Major Trends For Compliance Professionals In 2019.” Forbes, Forbes Magazine, 17 Apr. 2019, www.forbes.com/sites/steveculp/2019/04/17/four-major-trends-for-compliance-professionals-in-2019/#2522888d67ad.
+
+## PowerPoint
+https://docs.google.com/presentation/d/1wAiGZrwsMEDbh5V9_UjTUji3wxppvkZPzkGhHyuTcEs/edit?usp=sharing
+
 
 
 
